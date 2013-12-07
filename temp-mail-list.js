@@ -1,0 +1,20 @@
+module.exports = [
+  /@.*\.minutemail\.com/
+ ,/@drdrb\.com/
+ ,/@rainmail\..*/
+ ,/@binkmail\.com/
+ ,/@bobmail\.info/
+ ,/@guerrillamail.*\.com/
+ ,/@lhsdv\.com/
+ ,/@mailinator.*\..*/
+ ,/@mailinator\..*/
+ ,/@safetymail\.info/
+ ,/@sogetthis\.com/
+ ,/@spamherelots\.com/
+ ,/@suremail\.info/
+ ,/@thisisnotmyrealemail\.com/
+ ,/@yopmail\.com/
+ ,/@zippymail\.info/
+ ,/@dispostable\.com/
+ ,/@sharklasers\.com/
+];

@@ -1,0 +1,13 @@
+{
+  "name": "email-is-temporary",
+  "version": "1.0.0",
+  "author": "Ivan <sharp.maestro@gmail.com>",
+  "description": "Checks the email for being temporary, like those provided by 10minutemail.com and others",
+  "main": "./email-is-temporary",
+  "keywords": [ "email", "mail",
+                "validate", "verify",
+                "temporary" ],
+  "dependencies": { "email-validator": "0.x" },
+  "repository": "ognivo/email-is-temporary",
+  "license": "MIT"
+}
