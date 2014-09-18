@@ -7,7 +7,7 @@ module.exports = function(email) {
   var cache = temp_mail_regex_list,
       i = cache.length;
   while(--i >= 0) {
-    if ( !!email.match(cache[i]) )
+    if ( cache[i].test(email) )
       return true;
   }
   return false;
