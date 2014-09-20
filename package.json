@@ -1,6 +1,6 @@
 {
   "name": "email-is-temporary",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Ivan <sharp.maestro@gmail.com>",
   "description": "Checks the email for being temporary, like those provided by 10minutemail.com and others",
   "main": "./email-is-temporary",
