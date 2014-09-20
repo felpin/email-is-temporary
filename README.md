@@ -1,6 +1,7 @@
 # email is temporary
 Checks email address for being temporary.
-Handy is you want to prevent these from signing up.
+It is handy if you want to prevent these from signing up.
+Comments new tempoary email domains are welcome.
 
 ## Installation
 `npm install email-is-temporary`
